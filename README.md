@@ -43,7 +43,9 @@ evdev xorg driver worked for me too, but it recognizes my touchSCREEN as a touch
 If you are lazy Google this for your distro. Start with 
 * [this](http://software.opensuse.org/download.html?project=home%3Adaniel_newton%3Axf86-input-nextwindow&package=xf86-input-nextwindow)
 * [this](https://build.opensuse.org/package/show/home:daniel_newton:xf86-input-nextwindow/xf86-input-nextwindow)
+
 and
+
 * [this](https://launchpad.net/~djpnewton/+archive/xf86-input-nextwindow)
 
 Arch provides this in the AUR!
