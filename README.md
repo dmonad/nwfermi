@@ -32,6 +32,9 @@ Insert `{ USB_DEVICE(0x1926, 0x006D) },` for vendor id=006D
 * yay
 
 ### nwfermi-daemon
+
+I had to do this. Maybe you can leave this step out.. Me don't know
+
 * install nwfermi-daemon 
 
 start nwfermi-daemon at startup
